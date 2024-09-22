@@ -1,0 +1,18 @@
+{
+    "makefile.compileCommandsPath": ".vscode/compile_commands.json",
+    "makefile.configurations": [
+        {
+            "name": "MyConfiguration",
+            "problemMatchers": [
+                "$msCompile"
+            ],
+            "makeArgs": [
+                "any",
+                "other",
+                "args",
+                "you",
+                "want"
+            ]
+        },
+    ]
+}
